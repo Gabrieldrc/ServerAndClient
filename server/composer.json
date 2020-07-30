@@ -1,0 +1,12 @@
+{
+    "name": "gabriel/a",
+    "require": {
+        "phalcon/devtools": "^4.0"
+    },
+    "scripts": {
+        "phalcon": "php vendor/phalcon/devtools/phalcon"
+    },
+    "config": {
+        "process-timeout": 0
+    }
+}
