@@ -11,7 +11,7 @@ npm start
 #  Listener->  localhost:3000/
 
 ```
-** It's important to run both in diferent consoles **
+**It's important to run both in diferent consoles**
 
 This is our presentation page. It's distributed as:
 
